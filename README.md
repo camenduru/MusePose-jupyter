@@ -11,15 +11,6 @@
 ### 🧬 Code
 https://github.com/TMElyralab/MusePose
 
-### 📄 Paper
-
-
-### 🌐 Page
-
-
-### 💬 Post
-
-
 ### 🖼 Output
 
 https://github.com/camenduru/MusePose-jupyter/assets/54370274/31f62f11-c5ee-458e-a164-516b26d4c84d
